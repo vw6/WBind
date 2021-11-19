@@ -8,16 +8,16 @@ the file should look like this ...
 ```
 {
     "settings": [
-      {
-        "Debug": "yes"
-      }
+        {
+            "Debug": "yes"
+        }
     ],
     "textAndKey": [
-      {
-        "name":"Сказать привет",
-        "key": "F4",
-        "text": "Привет"
-      }
+        {
+            "name": "Сказать привет",
+            "key": "F4",
+            "text": "Привет"
+        }
     ]
-  }
+}
 ```
